@@ -1,0 +1,344 @@
+body {
+    background: url(photo/Vector1.png)  no-repeat;
+    background-position: 0px 0px ;
+    overflow-x:hidden;
+}
+
+.text_1{
+    /* Recipes For All Occasions. */
+position: absolute;
+width: 371.19px;
+height: 37px;
+left: 178px;
+top: 91px;
+
+font-family: 'Fredericka the Great';
+font-style: normal;
+font-weight: normal;
+font-size: 30px;
+line-height: 37px;
+}
+
+.up_panel_1{
+/* About Us */
+position: absolute;
+width: 66.21px;
+height: 19px;
+left: 800.89px;
+top: 98px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 19px;
+
+color: #525252;
+}
+
+.up_panel_2{
+    /* More recieps */
+position: absolute;
+width: 93.3px;
+height: 19px;
+left: 950px;
+top: 98px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 19px;
+
+color: #525252;
+}
+
+.up_panel_3{
+    /* Contact us */
+position: absolute;
+width: 77.25px;
+height: 19px;
+left: 1109px;
+top: 98px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 19px;
+
+color: #525252;
+}
+
+
+.floating-button {
+    text-decoration: none;
+    display: inline-block;
+    width: 140px;
+    height: 45px;
+    line-height: 45px;
+    border-radius: 45px;
+    margin: 84px 1571.45px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 11px;
+    text-transform: uppercase;
+    text-align: center;
+    letter-spacing: 3px;
+    font-weight: 600;
+    color: #524f4e;
+    background: white;
+    box-shadow: 0 8px 15px rgba(0, 0, 0, .1);
+    transition: .3s;
+  }
+  .floating-button:hover {
+    background: #2EE59D;
+    box-shadow: 0 15px 20px rgba(46, 229, 157, .4);
+    color: white;
+    transform: translateY(-7px);
+  } 
+
+.zag_text_1{
+    /* Most popular recieps */
+position: absolute;
+width: 609px;
+height: 75px;
+left: 655px;
+top: 260px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: bold;
+font-size: 64px;
+line-height: 75px;
+
+color: #626262;
+}
+
+.zag_text_2{
+    /* Chorizo & mozzarella gnocchi bake */
+position: absolute;
+width: 760.46px;
+height: 56px;
+left: 178px;
+top: 564px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: bold;
+font-size: 48px;
+line-height: 56px;
+
+color: #888888;
+}
+
+.podz_text_1{
+    /* STEP 1 */
+position: absolute;
+width: 104.01px;
+height: 38px;
+left: 178px;
+top: 687px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 32px;
+line-height: 37px;
+
+color: #525252;
+}
+
+.text_1_1{
+position: absolute;
+width: 570.06px;
+height: 80px;
+left: 178px;
+top: 742px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 126.19%;
+
+color: #656565;
+}
+
+.podz_text_2{
+    /* STEP 2 */
+position: absolute;
+width: 104.01px;
+height: 38px;
+left: 178px;
+top: 867px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 32px;
+line-height: 37px;
+
+color: #525252;
+}
+
+.text_1_2{
+position: absolute;
+width: 570.06px;
+height: 80px;
+left: 178px;
+top: 922px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 20px;
+
+color: #656565;
+}
+
+.zag_text_3{
+    /* Oven-Baked French Bread Pizzas */
+position: absolute;
+width: 733.75px;
+height: 56px;
+left: 1008.25px;
+top: 1438.3px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: bold;
+font-size: 48px;
+line-height: 56px;
+
+color: #888888;
+}
+
+.text_2_1{
+position: absolute;
+width: 583.32px;
+height: 40px;
+left: 1007.94px;
+top: 1616px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 126.19%;
+
+color: #656565;
+}
+
+.photo_1{
+ /* image 1 */
+position: absolute;
+width: 600px;
+height: 30px;
+left: 970.08px;
+top: 550px;
+}
+
+.photo_2{
+    /* image 2 */
+position: absolute;
+width: 556.46px;
+height: 556.46px;
+left: 178px;
+top: 1228px;
+}
+
+.sm_photo_1{
+    /* image 3 */
+position: absolute;
+width: 124.86px;
+height: 124.75px;
+left: 988.5px;
+top: 1865.27px;
+}
+
+.sm_photo_2{
+    /* image 4 */
+position: absolute;
+width: 126.62px;
+height: 126.56px;
+left: 1192.62px;
+top: 1866.53px;
+}
+
+.sm_photo_3{
+    /* image 5 */
+position: absolute;
+width: 124.1px;
+height: 124.09px;
+left: 1399.28px;
+top: 1867px;
+}
+
+i {
+    position: absolute;
+    right: 300px; 
+    bottom: 0px;
+    margin: -1010px 0px;
+    border: solid rgb(146, 132, 132);
+    border-width: 0 3px 3px 0;
+    display: inline-block;
+    padding: 20px;
+}
+
+.right {
+    transform: rotate(-45deg);
+    -webkit-transform: rotate(-45deg);
+}
+
+#square {
+    position: absolute;
+    width: 1920px;
+    height: 106px;
+    left: 0px;
+    top: 2127px;
+    background: #3C3C3C;
+}
+
+.podz_text_2_1{
+    /* Recipes For All Occasions. */
+position: absolute;
+width: 372.52px;
+height: 37px;
+left: 90px;
+top: 2161px;
+
+font-family: 'Fredericka the Great';
+font-style: normal;
+font-weight: normal;
+font-size: 30px;
+line-height: 37px;
+
+color: #FFFFFF;
+}
+.podz_text_2_2{
+position: absolute;
+left: 500px;
+top: 2161px;
+
+font-family: 'Fredericka the Great';
+font-style: normal;
+font-weight: normal;
+font-size: 30px;
+line-height: 37px;
+
+color: #FFFFFF;
+}
+
+/*span {
+    margin: 92px 1015px;
+    border: solid rgb(100, 100, 100);
+    border-width: 0 2px 2px 0;
+    display: inline-block;
+    padding: 5px;
+}
+
+.arrow_down{
+    transform: rotate(45deg);
+    -webkit-transform: rotate(45deg);
+}*/
